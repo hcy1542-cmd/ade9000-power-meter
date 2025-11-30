@@ -1,0 +1,5 @@
+../GP/ADE9000_SPI.c:23:24:ADE_CMD_HDR	16	static
+../GP/ADE9000_SPI.c:31:10:ADE_Read32	32	static
+../GP/ADE9000_SPI.c:53:10:ADE_Read16	24	static
+../GP/ADE9000_SPI.c:70:5:ADE_Write32	32	static
+../GP/ADE9000_SPI.c:88:5:ADE_Write16	24	static

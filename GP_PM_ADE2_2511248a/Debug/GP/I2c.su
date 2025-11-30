@@ -1,0 +1,14 @@
+../GP/I2c.c:22:10:CalcCRC	24	static
+../GP/I2c.c:40:6:EEPROM_Gain_Write	40	static
+../GP/I2c.c:58:10:EEPROM_4Byte_Read	40	static
+../GP/I2c.c:87:19:EEPROM_WriteEnergy	192	static
+../GP/I2c.c:131:19:EEPROM_ReadEnergy	248	static
+../GP/I2c.c:187:19:EEPROM_Init_B	96	static
+../GP/I2c.c:230:19:EEPROM_Format_B	296	static
+../GP/I2c.c:268:6:i2c_PM_data_write	24	static
+../GP/I2c.c:303:6:i2c_PM_data_read	24	static
+../GP/I2c.c:340:6:Check_I2C_Data	4	static
+../GP/I2c.c:376:6:i2c_data_init	4	static
+../GP/I2c.c:400:6:I2C_Read_Write	8	static
+../GP/I2c.c:430:19:EEP_FillBlockB	296	static
+../GP/I2c.c:461:9:EEP_Read_B	48	static

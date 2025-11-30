@@ -1,0 +1,7 @@
+Energy_read_Index = 0
+Energy_read_data = 0
+last_written_addr = 0x00000064
+max_index = 0
+max_energy = 0
+Check_EEP_Scan = 0
+EE_Write_Ind = 0

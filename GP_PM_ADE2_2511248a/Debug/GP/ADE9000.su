@@ -1,0 +1,16 @@
+../GP/ADE9000.c:68:6:ADE9000_Read_Monitoring	8	static
+../GP/ADE9000.c:136:7:wrap180f	16	static
+../GP/ADE9000.c:143:21:deg2rad	16	static
+../GP/ADE9000.c:149:8:pf_signed_lagpos_from_deg	32	static
+../GP/ADE9000.c:179:10:Make_ACCMODE	24	static
+../GP/ADE9000.c:210:6:ADE9000_Init_Const	8	static
+../GP/ADE9000.c:229:6:ADE9000_Init_EEP	8	static
+../GP/ADE9000.c:246:6:Calc_IB_ADE9000	88	static
+../GP/ADE9000.c:272:6:ADE9000_SCALE	88	static
+../GP/ADE9000.c:384:6:ADE9000_Calc_IAgain	56	static
+../GP/ADE9000.c:412:6:hcy_Calc_IBgain	40	static
+../GP/ADE9000.c:442:6:ADE9000_Calc_ICgain	56	static
+../GP/ADE9000.c:467:6:Calculation_Energy	40	static
+../GP/ADE9000.c:514:6:ADE9000_CheckSeqErr	16	static
+../GP/ADE9000.c:524:6:ADE9000_Delta_Voltage_Cal	104	static
+../GP/ADE9000.c:574:6:ADE9000_Measurement	8	static

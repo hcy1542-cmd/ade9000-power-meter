@@ -1,0 +1,4 @@
+../GP/src/uart.c:15:6:uartInit2	1
+../GP/src/uart.c:21:10:uartWrite	2
+../GP/src/uart.c:32:10:uartAvailable	2
+../GP/src/uart.c:48:9:uartRead	3

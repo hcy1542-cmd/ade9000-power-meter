@@ -1,0 +1,27 @@
+[Basic Page]
+m_strPrjFileName = D:\03. Power_Meter\01. Fimware\GP_PM_ADE2_251124a\Debug\PM_ADE.ezd
+m_straOutFileName[0] = D:\03. Power_Meter\01. Fimware\GP_PM_ADE2_251124a\Debug\GP_PM_ADE.elf
+m_straOutFileName[1] = 
+m_straOutFileName[2] = 
+m_straOutFileName[3] = 
+m_strDSPType = STM32F412xE
+m_strCommPort = USART
+m_strDebuggingModel = dwarf
+m_strDSPOption = 
+m_baIsCoreEz[0] = 1
+m_baIsCoreEz[1] = 0
+m_baIsCoreEz[2] = 0
+m_baIsCoreEz[3] = 0
+[Parallel & RS232 Port]
+m_strProtocol = Fast
+[USB Port]
+m_uBPS = 115200
+m_uWaitMoreMicroTime = 1500
+[Miscellaneous]
+m_bVariableAutoSeek = 1
+m_bStopWhenSuccessiveFail = 0
+m_bDisplayPrintableChar = 0
+m_bHighlightChange = 1
+m_strEditor = 
+[Project Information]
+m_uVersion = 1130

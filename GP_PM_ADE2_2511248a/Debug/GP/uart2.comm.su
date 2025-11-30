@@ -1,0 +1,2 @@
+../GP/uart2.comm.c:20:6:comm_address_data	4	static
+../GP/uart2.comm.c:138:15:uart2_CheckCrc	24	static

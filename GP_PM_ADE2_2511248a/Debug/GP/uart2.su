@@ -1,0 +1,12 @@
+../GP/uart2.c:26:6:init_UART2	24	static
+../GP/uart2.c:60:6:txd_buf_write	16	static
+../GP/uart2.c:70:10:GetDoubleHigh32	24	static
+../GP/uart2.c:81:10:GetDoubleLow32	24	static
+../GP/uart2.c:95:6:PM_Comm_data	56	static
+../GP/uart2.c:201:6:PM_Comm_data_Reverse	4	static
+../GP/uart2.c:236:6:PM_modbus_protocol	8	static
+../GP/uart2.c:357:6:uart2_conv_hex_dec	8	static
+../GP/uart2.c:373:6:UART2_tx_polling	8	static
+../GP/uart2.c:407:6:ClrBit_Error_Code	24	static
+../GP/uart2.c:447:6:UART2_rxd_data_check	8	static
+../GP/uart2.c:607:6:UART2_rx_polling	16	static

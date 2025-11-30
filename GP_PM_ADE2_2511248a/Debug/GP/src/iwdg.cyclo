@@ -1,0 +1,3 @@
+../GP/src/iwdg.c:14:6:iwdgInit	1
+../GP/src/iwdg.c:19:6:iwdgBegin	3
+../GP/src/iwdg.c:34:6:iwdgRefresh	1

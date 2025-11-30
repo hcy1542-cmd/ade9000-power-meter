@@ -1,0 +1,4 @@
+PM_Flag = -1
+ADE9000.VERSION.DIGIT.u16 = 0x0000
+Connection_Code = 448
+LED_TEST_FLAG = 0

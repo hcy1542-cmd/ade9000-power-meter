@@ -1,0 +1,6 @@
+../GP/i2c_val.c:19:6:Write_8bit_I2C_Data	1
+../GP/i2c_val.c:30:6:Read_8bit_I2C_Data	1
+../GP/i2c_val.c:39:6:Write_I2C_float_Data	1
+../GP/i2c_val.c:54:6:Write_I2C_long_Data	1
+../GP/i2c_val.c:69:6:Read_I2C_float_Data	1
+../GP/i2c_val.c:81:6:Read_I2C_long_Data	1

@@ -1,0 +1,4 @@
+../GP/src/uart.c:15:6:uartInit2	8	static
+../GP/src/uart.c:21:10:uartWrite	24	static
+../GP/src/uart.c:32:10:uartAvailable	24	static
+../GP/src/uart.c:48:9:uartRead	24	static
